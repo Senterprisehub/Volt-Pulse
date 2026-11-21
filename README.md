@@ -6,7 +6,7 @@ VoltPulse is an Android battery intelligence application that combines live hard
 > **APK:** `VoltPulse.-.v1.0.apk`  
 > **Minimum Android:** 7.0 (API 24)  
 > **Target Android:** API 36  
-> **Package:** `com.aistudio.voltpulse.bqkxvy`  
+> **Package:** `com.voltpulse.bqkxvy`  
 > **Version:** 1.0 (version code 1)
 
 ## Features
